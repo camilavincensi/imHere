@@ -1,4 +1,4 @@
-Projetinho desenvolvido junto a Rockeseat.
+Projetinho desenvolvido junto a Rockeseat. Utilizando React Native e TypeScript
 
 - Tela sem participantes adicionados
   
